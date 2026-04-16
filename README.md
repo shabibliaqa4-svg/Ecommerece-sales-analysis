@@ -270,8 +270,8 @@ This project is licensed under the MIT License.
 ## 👤 Author
 
 **Your Name**
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- GitHub: [your-username](https://github.com/your-username)
+- LinkedIn: [shabibliaqat](https://linkedin.com/in/shabibliaqat)
+- GitHub: [shabibliaqa4-svg](https://github.com/shabibliaqa4-svg)
 
 ---
 
