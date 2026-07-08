@@ -47,7 +47,7 @@ through exploratory analysis to actionable business recommendations.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ecommerce-sales-analysis.git
+git clone https://github.com/shabib liaqat/ecommerce-sales-analysis.git
 cd ecommerce-sales-analysis
 
 # Create virtual environment
